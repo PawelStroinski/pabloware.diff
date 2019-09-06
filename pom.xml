@@ -18,6 +18,7 @@
     <url>https://github.com/PawelStroinski/pabloware.diff</url>
     <connection>scm:git:git://github.com/PawelStroinski/pabloware.diff.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/PawelStroinski/pabloware.diff.git</developerConnection>
+    <tag>9ec9c537bf0b0bdc90bdb111fe8ebe95ddd25618</tag>
   </scm>
   
   <dependencies/>
