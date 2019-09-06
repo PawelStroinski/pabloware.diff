@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>pabloware</groupId>
+  <artifactId>diff</artifactId>
+  <version>0.1.0</version>
+
+  <description>Readable diff &#038; patch lib. Best used with maps.</description>
+  <url>https://github.com/PawelStroinski/pabloware.diff</url>
+  <licenses>
+    <license>
+      <name>Eclipse Public License</name>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
+    </license>
+  </licenses>
+
+  <scm>
+    <url>https://github.com/PawelStroinski/pabloware.diff</url>
+    <connection>scm:git:git://github.com/PawelStroinski/pabloware.diff.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/PawelStroinski/pabloware.diff.git</developerConnection>
+  </scm>
+  
+  <dependencies/>
+
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+  </build>
+
+  <repositories>
+    <repository>
+      <id>clojars</id>
+      <url>https://repo.clojars.org/</url>
+    </repository>
+  </repositories>
+</project>
