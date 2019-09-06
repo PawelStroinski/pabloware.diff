@@ -2,7 +2,7 @@
 
 Readable diff & patch lib. Best used with maps.
 
-[![Clojars Project](https://img.shields.io/clojars/v/pabloware.diff.svg)](https://clojars.org/pabloware.diff)
+[![Clojars Project](https://img.shields.io/clojars/v/pabloware/diff.svg)](https://clojars.org/pabloware/diff)
 
 ## Rationale
 
