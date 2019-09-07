@@ -6,7 +6,7 @@ Readable diff & patch lib. Best used with maps.
 
 ## Rationale
 
-While there are many diff & patch libs around there, I could not find one which *shows* the shape of a diffed data in the diff itself, i.e. I wanted a diff of a map to be a map. Also, it should be able to use that diff to do patching.
+While there are many diff & patch libs around, I could not find one which *shows* the shape of a diffed data in the diff itself, i.e. I wanted a diff of a map to be a map. Also, it should be able to use that diff to do patching.
 
 This lib does exactly that but is very basic in terms of diffing lists and vectors. There are alternative libs for that.
 
